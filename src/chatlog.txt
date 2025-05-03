@@ -1,0 +1,2 @@
+2025-05-03 17:19:58 | gulkan | RECEIVED (Secure): deneme scureeee
+2025-05-03 17:20:06 | gulkan | SENT (Plain): hey
